@@ -1,26 +1,147 @@
-## Hi there 👋 I am jagan
+<h1 align="center">Hi there, I'm Kotti Jagan 👋</h1>
+<h3 align="center">Aspiring Data Analyst | B.Tech Student | Turning Data into Decisions</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+into+Insights;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kottijagan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kottijagan535@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kotti-jagan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kottijagan535@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KottiJagan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KottiJagan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KottiJagan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KottiJagan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KottiJagan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--
+  ✏️ EDIT ME: Add your Portfolio and Resume links back once ready, e.g.:
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+-->
 
 ---
-[![](https://komarev.com/ghpvc/?username=KottiJagan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+
+- 🎓 I'm currently a **3rd Year B.Tech (UG) student**, based in **Chittoor, India**
+- 📊 Passionate about **Data Analysis** — exploring data, finding patterns, and turning numbers into stories
+- 🌱 Currently sharpening my skills in data analysis tools and techniques
+- 💬 Open to connect and collaborate on data-driven projects
+- 📫 Reach me at **kottijagan535@gmail.com**
+
+<!-- ✏️ EDIT ME: Add your career goals, interests, and a fun fact here, e.g.
+- 🎯 **Career Goal:** Looking for Data Analyst internship/entry-level roles
+- ⚡ **Interests:** Data Visualization, Machine Learning, Sports Analytics
+- 🎉 **Fun Fact:** I once...
+-->
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Data Analysis & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- ✏️ EDIT ME: Remove any badges above you don't actually use, or add more from https://shields.io -->
+
+---
+
+### 🚀 Featured Projects
+
+<!-- ✏️ EDIT ME: Replace each block below with your real projects -->
+
+#### 📌 [Project Name 1](https://github.com/KottiJagan/your-repo-1)
+Brief description of what this project does and the problem it solves.
+**Tech Stack:** Python, Pandas, Matplotlib
+
+#### 📌 [Project Name 2](https://github.com/KottiJagan/your-repo-2)
+Brief description of what this project does and the problem it solves.
+**Tech Stack:** SQL, Power BI
+
+#### 📌 [Project Name 3](https://github.com/KottiJagan/your-repo-3)
+Brief description of what this project does and the problem it solves.
+**Tech Stack:** Excel, R
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KottiJagan&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KottiJagan&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KottiJagan&theme=tokyonight" />
+</p>
+
+<!-- ℹ️ These stat cards use your GitHub username (KottiJagan). They update automatically — no action needed. -->
+
+---
+
+### 🏆 Achievements & Certifications
+
+<!-- ✏️ EDIT ME: Add your certifications/achievements, e.g.
+- 📜 Google Data Analytics Professional Certificate
+- 🏅 Winner, XYZ Hackathon 2025
+-->
+- _Add your certifications and achievements here_
+
+---
+
+### 📚 Currently Learning
+
+<!-- ✏️ EDIT ME: List what you're actively learning, e.g.
+- Advanced SQL & Query Optimization
+- Machine Learning Fundamentals
+- Data Storytelling with Power BI
+-->
+- _Add topics/tools you're currently learning_
+
+---
+
+### 🤝 Open to Collaborate On
+
+- 📊 Data analysis & visualization projects
+- 🌐 Open-source contributions
+- 💼 Internship opportunities
+- 🔬 Academic / research projects
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kotti-jagan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kottijagan535@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KottiJagan&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
