@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Kotti Jagan 👋</h1>
-<h3 align="center">Aspiring Data Analyst | B.Tech Student | Turning Data into Decisions</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Kotti%20Jagan&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20in%20the%20Making&descAlignY=55&descSize=22" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+into+Insights;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
@@ -24,7 +25,7 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm currently a **3rd Year B.Tech (UG) student**, based in **Chittoor, India**
+- 🎓 I'm currently a **3rd Year B.Tech  student**, based in **Chittoor, India**
 - 📊 Passionate about **Data Analysis** — exploring data, finding patterns, and turning numbers into stories
 - 🌱 Currently sharpening my skills in data analysis tools and techniques
 - 💬 Open to connect and collaborate on data-driven projects
