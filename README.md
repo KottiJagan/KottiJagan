@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Kotti%20Jagan&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20in%20the%20Making&descAlignY=55&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Kotti%20Jagan&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=22" width="100%"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm currently a **3rd Year B.Tech  student**, based in **Chittoor, India**
+- 🎓 I'm currently a **3rd Year B.Tech (UG) student**, based in **Chittoor, India**
 - 📊 Passionate about **Data Analysis** — exploring data, finding patterns, and turning numbers into stories
 - 🌱 Currently sharpening my skills in data analysis tools and techniques
 - 💬 Open to connect and collaborate on data-driven projects
