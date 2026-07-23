@@ -25,7 +25,7 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm currently a **3rd Year B.Tech  student**, based in **Chittoor, India**
+- 🎓 I'm currently a **3rd Year B.Tech CSE student**, based in **Chittoor, India**
 - 📊 Passionate about **Data Analysis** — exploring data, finding patterns, and turning numbers into stories
 - 🌱 Currently sharpening my skills in data analysis tools and techniques
 - 💬 Open to connect and collaborate on data-driven projects
